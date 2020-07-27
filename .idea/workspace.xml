@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd7e5fbd-1da8-4678-8e6d-0f91e401b49c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="174" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ehBe0l2lHzSjniW04TPaFly8Rs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cloudkitchen.shelf" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ShelfAccessorTest">
+    <configuration name="OrderIngestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cloudkitchen.OrderIngestor" />
+      <module name="cloudkitchens" />
+      <option name="PROGRAM_PARAMETERS" value="10 $PROJECT_DIR$/src/main/resources/orders.json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloudkitchen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShelfAccessorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloudkitchens" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloudkitchen.shelf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cloudkitchen.shelf" />
+      <option name="MAIN_CLASS_NAME" value="com.cloudkitchen.shelf.ShelfAccessorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShelfAccessorTest.test_placeOnShelf_providedFullAndOverflowfull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloudkitchens" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloudkitchen.shelf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cloudkitchen.shelf" />
+      <option name="MAIN_CLASS_NAME" value="com.cloudkitchen.shelf.ShelfAccessorTest" />
+      <option name="METHOD_NAME" value="test_placeOnShelf_providedFullAndOverflowfull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShelfAccessorTest.test_showShelf_verifyOverflowShelfOrderValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloudkitchens" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloudkitchen.shelf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cloudkitchen.shelf" />
+      <option name="MAIN_CLASS_NAME" value="com.cloudkitchen.shelf.ShelfAccessorTest" />
+      <option name="METHOD_NAME" value="test_showShelf_verifyOverflowShelfOrderValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.cloudkitchen in cloudkitchens" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloudkitchens" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloudkitchen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cloudkitchen" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OrderIngestor" />
+      <item itemvalue="JUnit.ShelfAccessorTest" />
+      <item itemvalue="JUnit.ShelfAccessorTest.test_placeOnShelf_providedFullAndOverflowfull" />
+      <item itemvalue="JUnit.ShelfAccessorTest.test_showShelf_verifyOverflowShelfOrderValue" />
+      <item itemvalue="JUnit.com.cloudkitchen in cloudkitchens" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShelfAccessorTest" />
+        <item itemvalue="JUnit.com.cloudkitchen in cloudkitchens" />
+        <item itemvalue="Application.OrderIngestor" />
+        <item itemvalue="JUnit.ShelfAccessorTest.test_showShelf_verifyOverflowShelfOrderValue" />
+        <item itemvalue="JUnit.ShelfAccessorTest.test_placeOnShelf_providedFullAndOverflowfull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd7e5fbd-1da8-4678-8e6d-0f91e401b49c" name="Default Changelist" comment="" />
+      <created>1594764035873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594764035873</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2408" y="185" key="#OrderIngestor" timestamp="1594842987936">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2408" y="185" key="#OrderIngestor/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1594842987936" />
+    <state x="2597" y="320" key="#Project_Structure" timestamp="1594765209637">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2597" y="320" key="#Project_Structure/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1594765209637" />
+    <state x="180" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595018396910">
+      <screen x="0" y="23" width="1344" height="737" />
+    </state>
+    <state x="180" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1344.737@0.23.1344.737" timestamp="1595018396910" />
+    <state x="2225" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1594843610825" />
+    <state x="2548" y="225" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1594842929245">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2548" y="225" key="#com.intellij.ide.macro.MacrosDialog/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1594842929245" />
+    <state x="2772" y="334" key="#com.intellij.ide.util.MemberChooser" timestamp="1594840599024">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="596" y="185" key="#com.intellij.ide.util.MemberChooser/0.23.1344.737@0.23.1344.737" timestamp="1594789828063" />
+    <state x="852" y="310" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977/1920.23.1920.1057@0.23.1920.977" timestamp="1594770261564" />
+    <state x="2772" y="334" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1594840599024" />
+    <state x="-1362" y="375" width="471" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594858786744">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1362" y="375" width="471" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-3840.23.1920.977/-1920.23.1920.1057/0.23.1536.937@-1920.23.1920.1057" timestamp="1594858786744" />
+    <state x="609" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594773609060">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="609" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.977/1920.23.1920.1057@0.23.1920.977" timestamp="1594773609060" />
+    <state width="431" height="466" key="DebuggerActiveHint" timestamp="1594860254990">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="431" height="466" key="DebuggerActiveHint/-3840.23.1920.977/-1920.23.1920.1057/0.23.1536.937@-1920.23.1920.1057" timestamp="1594860254990" />
+    <state width="1471" height="283" key="GridCell.Tab.0.bottom" timestamp="1595266297241">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1409" height="197" key="GridCell.Tab.0.bottom/-3840.23.1920.977/-1920.23.1920.1057/0.23.1536.937@-1920.23.1920.1057" timestamp="1594863206824" />
+    <state width="1302" height="223" key="GridCell.Tab.0.bottom/0.23.1344.737@0.23.1344.737" timestamp="1595255952942" />
+    <state width="1409" height="194" key="GridCell.Tab.0.bottom/0.23.1920.977/1920.23.1920.1057@0.23.1920.977" timestamp="1594850134420" />
+    <state width="1409" height="199" key="GridCell.Tab.0.bottom/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1594843617195" />
+    <state width="1471" height="283" key="GridCell.Tab.0.bottom/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1595266297241" />
+    <state width="1471" height="283" key="GridCell.Tab.0.center" timestamp="1595266297240">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1409" height="197" key="GridCell.Tab.0.center/-3840.23.1920.977/-1920.23.1920.1057/0.23.1536.937@-1920.23.1920.1057" timestamp="1594863206824" />
+    <state width="1302" height="223" key="GridCell.Tab.0.center/0.23.1344.737@0.23.1344.737" timestamp="1595255952941" />
+    <state width="1409" height="194" key="GridCell.Tab.0.center/0.23.1920.977/1920.23.1920.1057@0.23.1920.977" timestamp="1594850134418" />
+    <state width="1409" height="199" key="GridCell.Tab.0.center/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1594843617194" />
+    <state width="1471" height="283" key="GridCell.Tab.0.center/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1595266297240" />
+    <state width="1471" height="283" key="GridCell.Tab.0.left" timestamp="1595266297239">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1409" height="197" key="GridCell.Tab.0.left/-3840.23.1920.977/-1920.23.1920.1057/0.23.1536.937@-1920.23.1920.1057" timestamp="1594863206823" />
+    <state width="1302" height="223" key="GridCell.Tab.0.left/0.23.1344.737@0.23.1344.737" timestamp="1595255952940" />
+    <state width="1409" height="194" key="GridCell.Tab.0.left/0.23.1920.977/1920.23.1920.1057@0.23.1920.977" timestamp="1594850134417" />
+    <state width="1409" height="199" key="GridCell.Tab.0.left/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1594843617194" />
+    <state width="1471" height="283" key="GridCell.Tab.0.left/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1595266297239" />
+    <state width="1471" height="283" key="GridCell.Tab.0.right" timestamp="1595266297240">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1409" height="197" key="GridCell.Tab.0.right/-3840.23.1920.977/-1920.23.1920.1057/0.23.1536.937@-1920.23.1920.1057" timestamp="1594863206824" />
+    <state width="1302" height="223" key="GridCell.Tab.0.right/0.23.1344.737@0.23.1344.737" timestamp="1595255952941" />
+    <state width="1409" height="194" key="GridCell.Tab.0.right/0.23.1920.977/1920.23.1920.1057@0.23.1920.977" timestamp="1594850134419" />
+    <state width="1409" height="199" key="GridCell.Tab.0.right/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1594843617195" />
+    <state width="1471" height="283" key="GridCell.Tab.0.right/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1595266297240" />
+    <state width="1302" height="223" key="GridCell.Tab.1.bottom" timestamp="1595255952942">
+      <screen x="0" y="23" width="1344" height="737" />
+    </state>
+    <state width="1409" height="262" key="GridCell.Tab.1.bottom/-3840.23.1920.977/-1920.23.1920.1057/0.23.1536.937@-1920.23.1920.1057" timestamp="1594861789664" />
+    <state width="1302" height="223" key="GridCell.Tab.1.bottom/0.23.1344.737@0.23.1344.737" timestamp="1595255952942" />
+    <state width="1409" height="194" key="GridCell.Tab.1.bottom/0.23.1920.977/1920.23.1920.1057@0.23.1920.977" timestamp="1594850134422" />
+    <state width="1409" height="194" key="GridCell.Tab.1.bottom/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1594842615679" />
+    <state width="1302" height="223" key="GridCell.Tab.1.center" timestamp="1595255952942">
+      <screen x="0" y="23" width="1344" height="737" />
+    </state>
+    <state width="1409" height="262" key="GridCell.Tab.1.center/-3840.23.1920.977/-1920.23.1920.1057/0.23.1536.937@-1920.23.1920.1057" timestamp="1594861789663" />
+    <state width="1302" height="223" key="GridCell.Tab.1.center/0.23.1344.737@0.23.1344.737" timestamp="1595255952942" />
+    <state width="1409" height="194" key="GridCell.Tab.1.center/0.23.1920.977/1920.23.1920.1057@0.23.1920.977" timestamp="1594850134421" />
+    <state width="1409" height="194" key="GridCell.Tab.1.center/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1594842615678" />
+    <state width="1302" height="223" key="GridCell.Tab.1.left" timestamp="1595255952942">
+      <screen x="0" y="23" width="1344" height="737" />
+    </state>
+    <state width="1409" height="262" key="GridCell.Tab.1.left/-3840.23.1920.977/-1920.23.1920.1057/0.23.1536.937@-1920.23.1920.1057" timestamp="1594861789662" />
+    <state width="1302" height="223" key="GridCell.Tab.1.left/0.23.1344.737@0.23.1344.737" timestamp="1595255952942" />
+    <state width="1409" height="194" key="GridCell.Tab.1.left/0.23.1920.977/1920.23.1920.1057@0.23.1920.977" timestamp="1594850134420" />
+    <state width="1409" height="194" key="GridCell.Tab.1.left/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1594842615678" />
+    <state width="1302" height="223" key="GridCell.Tab.1.right" timestamp="1595255952942">
+      <screen x="0" y="23" width="1344" height="737" />
+    </state>
+    <state width="1409" height="262" key="GridCell.Tab.1.right/-3840.23.1920.977/-1920.23.1920.1057/0.23.1536.937@-1920.23.1920.1057" timestamp="1594861789663" />
+    <state width="1302" height="223" key="GridCell.Tab.1.right/0.23.1344.737@0.23.1344.737" timestamp="1595255952942" />
+    <state width="1409" height="194" key="GridCell.Tab.1.right/0.23.1920.977/1920.23.1920.1057@0.23.1920.977" timestamp="1594850134421" />
+    <state width="1409" height="194" key="GridCell.Tab.1.right/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1594842615678" />
+    <state x="2455" y="178" key="Maven.ArtifactSearchDialog" timestamp="1594764578735">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2455" y="178" key="Maven.ArtifactSearchDialog/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1594764578735" />
+    <state x="666" y="169" key="SettingsEditor" timestamp="1594765486252">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="666" y="169" key="SettingsEditor/0.23.1920.977/1920.23.1920.1057@0.23.1920.977" timestamp="1594765486252" />
+    <state x="118" y="105" width="1181" height="654" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595016743170">
+      <screen x="0" y="23" width="1344" height="737" />
+    </state>
+    <state x="-1752" y="141" width="1251" height="737" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-3840.23.1920.977/-1920.23.1920.1057/0.23.1536.937@-1920.23.1920.1057" timestamp="1594856601809" />
+    <state x="118" y="105" width="1181" height="654" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1344.737@0.23.1344.737" timestamp="1595016743170" />
+    <state x="326" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1595255972603">
+      <screen x="0" y="23" width="1344" height="737" />
+    </state>
+    <state x="326" y="226" key="com.intellij.ide.util.TipDialog/0.23.1344.737@0.23.1344.737" timestamp="1595255972603" />
+    <state x="1039" y="422" key="extract.method.dialog" timestamp="1594849573052">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="1039" y="422" key="extract.method.dialog/0.23.1920.977/1920.23.1920.1057@0.23.1920.977" timestamp="1594849573052" />
+    <state x="2425" y="238" width="670" height="676" key="search.everywhere.popup" timestamp="1594842280306">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2425" y="238" width="670" height="676" key="search.everywhere.popup/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1594842280306" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cloudkitchen/shelf/ShelfAccessorTest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cloudkitchen/shelf/ShelfAccessorTest.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cloudkitchen/kitchen/KitchenWorker.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cloudkitchen/shelf/ShelfAccessorTest.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cloudkitchen/shelf/ShelfAccessor.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cloudkitchens$ShelfAccessorTest.ic" NAME="ShelfAccessorTest Coverage Results" MODIFIED="1595016275434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.cloudkitchen.shelf.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cloudkitchens$com_cloudkitchen_in_cloudkitchens.ic" NAME="com.cloudkitchen in cloudkitchens Coverage Results" MODIFIED="1594874149966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.cloudkitchen.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cloudkitchens$ShelfAccessorTest_test_placeOnShelf_providedFullAndOverflowfull.ic" NAME="ShelfAccessorTest.test_placeOnShelf_providedFullAndOverflowfull Coverage Results" MODIFIED="1595016236526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.cloudkitchen.shelf.*</FILTER>
+    </SUITE>
+  </component>
+</project>

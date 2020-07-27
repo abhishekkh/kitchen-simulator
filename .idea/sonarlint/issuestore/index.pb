@@ -1,0 +1,27 @@
+
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+c
+3src/main/java/com/cloudkitchen/shelf/ShelfType.java,a/3/a3b0b3c7f9b4a061f42e85baae552bae0eac9222
+l
+<src/main/java/com/cloudkitchen/courier/CourierScheduler.java,4/e/4e7a13ac19de17efe991ddcecb8ef0dae8652c63
+a
+1src/main/java/com/cloudkitchen/OrderIngestor.java,4/2/4255c4f2d7f3c8cad4bd31a7c66a403a0e0a27bb
+_
+/src/main/java/com/cloudkitchen/order/Order.java,8/c/8c6920a100c362f4859b68318c6e7634a25432d0
+i
+9src/main/java/com/cloudkitchen/kitchen/KitchenWorker.java,8/f/8fad1d1390f9efbe47fa6358e1f358d6dc54ab5a
+c
+3src/main/java/com/cloudkitchen/courier/Courier.java,0/5/050b916f36eb20ef149277a01314b654ccfcc5f8
+g
+7src/main/java/com/cloudkitchen/shelf/ShelfAccessor.java,0/5/05b3a31911bc3a0060233c8f79550a14921192f5
+j
+:src/main/java/com/cloudkitchen/kitchen/IKitchenWorker.java,7/9/79f07e3de7a4b9ef978e75948bef511813607702
+h
+8src/main/java/com/cloudkitchen/shelf/IShelfAccessor.java,b/e/be736563e669e310699c8bf682de3d86437cb391
+k
+;src/test/java/com/cloudkitchen/shelf/ShelfAccessorTest.java,d/8/d8af1db81baa4a8afdd2a878c807c67c9e645349
+m
+=src/test/java/com/cloudkitchen/kitchen/KitchenWorkerTest.java,7/2/72ffe1ad7848028633424f574907c42d531c3ab0
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
