@@ -1,4 +1,4 @@
-# CloudKitchen order simulation
+# Kitchen order simulation
 
 ## Usage
 To run inside an IDE, run the main method in OrderIngestor.java by passing two arguments as shown below.
