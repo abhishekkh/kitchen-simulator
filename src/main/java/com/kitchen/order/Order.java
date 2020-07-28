@@ -1,4 +1,4 @@
-package com.cloudkitchen.order;
+package com.kitchen.order;
 
 public class Order {
 

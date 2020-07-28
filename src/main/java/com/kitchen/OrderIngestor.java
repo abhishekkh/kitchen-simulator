@@ -1,17 +1,19 @@
-package com.cloudkitchen;
+package com.kitchen;
 
 
-import com.cloudkitchen.courier.CourierScheduler;
-import com.cloudkitchen.kitchen.IKitchenWorker;
-import com.cloudkitchen.kitchen.KitchenWorker;
-import com.cloudkitchen.order.Order;
-import com.cloudkitchen.shelf.IShelfAccessor;
-import com.cloudkitchen.shelf.ShelfAccessor;
 import com.google.gson.Gson;
+import com.kitchen.courier.CourierScheduler;
+import com.kitchen.kitchen.IKitchenWorker;
+import com.kitchen.kitchen.KitchenWorker;
+import com.kitchen.order.Order;
+import com.kitchen.shelf.IShelfAccessor;
+import com.kitchen.shelf.ShelfAccessor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.*;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.Reader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 

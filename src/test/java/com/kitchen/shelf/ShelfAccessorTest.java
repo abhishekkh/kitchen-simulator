@@ -1,6 +1,6 @@
-package com.cloudkitchen.shelf;
+package com.kitchen.shelf;
 
-import com.cloudkitchen.order.Order;
+import com.kitchen.order.Order;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

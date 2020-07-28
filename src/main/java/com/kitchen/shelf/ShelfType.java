@@ -1,4 +1,4 @@
-package com.cloudkitchen.shelf;
+package com.kitchen.shelf;
 
 public enum ShelfType {
     HOT("hot"),

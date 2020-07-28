@@ -14,10 +14,8 @@ To run using the jar
 - run from command line
 
 ```
-tar -zxvf cloudkitchen-abhi-takehome.tar.gz
-cd cloudkitchens
 mvn clean install
-java -jar target/takehome-1.0-SNAPSHOT-jar-with-dependencies.jar 2 /path/to/file/orders.json
+java -jar target/simulator-1.0-SNAPSHOT-jar-with-dependencies.jar 2 /path/to/file/orders.json
 
 ```
 

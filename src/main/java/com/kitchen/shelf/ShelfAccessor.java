@@ -1,7 +1,6 @@
-package com.cloudkitchen.shelf;
+package com.kitchen.shelf;
 
-import com.cloudkitchen.order.Order;
-import org.apache.commons.lang3.StringUtils;
+import com.kitchen.order.Order;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

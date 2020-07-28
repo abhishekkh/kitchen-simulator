@@ -1,7 +1,7 @@
-package com.cloudkitchen.courier;
+package com.kitchen.courier;
 
-import com.cloudkitchen.order.Order;
-import com.cloudkitchen.shelf.IShelfAccessor;
+import com.kitchen.order.Order;
+import com.kitchen.shelf.IShelfAccessor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
